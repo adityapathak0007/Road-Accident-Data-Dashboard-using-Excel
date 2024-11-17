@@ -53,6 +53,12 @@ The dashboard showcases:
 
 ---
 
+## 📂 Dataset Download
+The dataset used in this analysis is available for download via Google Drive:  
+[Download Dataset](https://drive.google.com/drive/folders/1nOy0QQcCiR7RYgISBHMKxqwqnnuTVnr5?usp=sharing)
+
+---
+
 ## 🛠️ Features
 - **Advanced Data Analysis**: 📊 In-depth exploration using Excel's formulas, pivot tables, and analysis tools.
 - **Interactive Dashboard**: Engaging visuals like bar charts, pie charts, and trends.
@@ -62,7 +68,7 @@ The dashboard showcases:
 ---
 
 ## 📈 How to Use
-1. **Download** the files (`Road Accident Data.xlsx` and the dashboard file).
+1. **Download** the files from the [Google Drive link](https://drive.google.com/drive/folders/1nOy0QQcCiR7RYgISBHMKxqwqnnuTVnr5?usp=sharing).
 2. Open the Excel file in **Microsoft Excel** or a compatible spreadsheet software.
 3. Explore the following:
    - **Data Sheet**: Detailed data for analysis.
